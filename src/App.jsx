@@ -4,7 +4,7 @@ import Home from './components/Home';
 
 import BackToTopButton from './components/BackToTopButton';
 import Navbar from './components/Navbar';
-import Wishlist from './components/wishlist';
+import Wishlist from './components/Wishlist';
 function App() {
   return (
     <div>
